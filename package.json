@@ -11,7 +11,7 @@
   "author": "Abel Ormanel",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.9.6",
+    "apollo-server": "^2.25.3",
     "apollo-server-express": "^2.9.6",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
